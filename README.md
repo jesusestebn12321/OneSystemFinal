@@ -1,2 +1,0 @@
-# OneSystemFinal
-OneSystem pequeño ML
